@@ -13,6 +13,7 @@ A simple engine, not so simple architecture due to lack of expertise, that works
 Continued work from Forsaken Void, where I've been highly focused in the movement system. The system is controlled via thrusters that each force is applied either in a manual manner or trying to follow a target/spline, this second approach uses PID controllers implemented by me to stabilise the spaceship. A game being made with two childhood friends.
 
 - [YouTube - Centauri Rising](https://www.youtube.com/playlist?list=PLFj4C8c4afUAPOIRdU1hb7KPYad_HKlrs)
+- [Centauri Rising Landing Page](https://centauri-rising.com/)
 
 ## Forsaken Void
 
