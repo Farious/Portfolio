@@ -1,6 +1,6 @@
-# Fábio Reis's simple portefolio
+# Fábio Reis's Portfolio
 
-This page will act as a simple online portefolio for my public game development endeaveurs.
+This page will act as a simple online portfolio for my public game development endeaveurs.
 
 ## Simple Engine
 
