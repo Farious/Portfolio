@@ -26,10 +26,10 @@ A ores clone used to learn SDL 2.0. Made using C++ (a lot of autos) and SDL2.0
 
 A game for the LudumDare #38, Theme: A Small World, heavily inspired by **Bastion**. Made in Unity3D in around 6h. A game made with two childhood friends
 
-https://ldjam.com/events/ludum-dare/38/$26669
+[LudumDare #38](https://ldjam.com/events/ludum-dare/38/$26669)
 
 ## Elon Musk Simulator
 
 A game for the LudumDare #43, Theme: Sacrifices must be made, a game where you sacrifice your crew members as weapons. Made in Unreal Engine in around 8h. A game made with two childhood friends
 
-https://ldjam.com/events/ludum-dare/43/elon-musk-simulator
+[LudumDare #43](https://ldjam.com/events/ludum-dare/43/elon-musk-simulator)
