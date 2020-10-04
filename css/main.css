@@ -195,7 +195,7 @@ body div section
 /*PORTFOLIO*/
 #portfolio section
 {
-    min-height: 20em;
+    min-height: 25em;
     height: 25vh;
     max-height: 55em;
 }
