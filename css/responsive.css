@@ -1,0 +1,275 @@
+@media (max-width: 78.75em) 
+{
+    #bio
+    {
+        display:flex;
+        flex-wrap:wrap;
+        width:calc(64.67% - 0.375em);
+        height:auto;
+        align-content:flex-start;
+        margin:0.5em 0.188em;
+        padding-top:4em;
+    }
+    #portrait
+    {
+        order:1;
+    }
+    #summary
+    {
+        margin-top:2em;
+        order:3;
+        flex-grow:2;
+        align-self:stretch;
+    }
+    #pdf
+    {
+        order:2;
+        align-self:flex-end;
+    }
+    aside div
+    {
+        float:none;
+        width:50%;
+    }
+    aside #summary p
+    {
+        width:90%;
+        padding:0 5%;
+        margin:0;
+        float:none;
+    }
+    .resV
+    {
+        width:33.33%;
+        display: flex;
+        flex-direction:column;
+    }
+    #resume section
+    {
+        display:flex;
+        flex-wrap:wrap;
+    }
+    #languages
+    {
+        margin-top:0.375em;
+        margin-right:0;
+        margin-left:0.188em;
+        float:right;
+    }
+}
+@media (max-width: 60em) 
+{
+    #bio
+    {
+        width:100%;
+        padding-top:1em;
+    }
+    aside #summary
+    {
+        height:auto;
+    }
+    .resV
+    {
+        width:50%;
+        margin-left:0;
+        margin-right:0;
+    }
+    #lanV
+    {
+        order:3;
+    }
+    #languages
+    {
+        margin-top:0.0em;
+    }
+    #engApiSof, #experience, #graphProg
+    {
+        margin-left:0;
+        margin-right:0.188em;
+        width:100%;
+    }
+    #gameDev, #education
+    {
+        margin-left:0.188em;
+        margin-right:0;
+        width:100%;
+    }
+}
+@media (max-width: 50.938em)
+{
+    /*MENU*/
+    .menuBtn
+    {
+        display:block;
+    }
+    .MENU .list
+    {
+        display:none;
+    }
+    .MENU .show
+    {
+        display:block;
+    }
+    .expand
+    {
+        height:auto;
+    }
+    .expand .list
+    {
+        position:relative;
+        top:100%;
+	    display: block;
+    }
+    .expand div a div, .expand div a img
+    {
+	    margin-top:					0;
+        top:100%;
+	    display: block;
+    }
+    .expand div a .menImg
+    {
+        display:none;
+    }
+    .expand div a .menTxt
+    {
+	    display: block;
+    }
+    /*PORTFOLIO*/
+    #portfolio section
+    {
+        height:auto;
+        min-height:                 initial;
+        max-height:                 initial;
+    }
+    #portfolio a .pBorder
+    {
+        width:49%;
+        height:30rem;
+    }
+    /*OTHER PROJECTS*/
+	#otherProjects a .pBorder
+	{
+		width:					49%;
+	}
+}
+@media (max-width: 41em) 
+{
+    #mail p
+    {
+        font-size:1.75rem;
+    } 
+    #links img {
+        width: 3em;
+        height: 3em;
+    }
+}
+@media (max-width: 40em) 
+{
+    h1 {
+        font-size:2.8rem;
+    }
+    h2
+    {
+        font-size:1.85rem;
+    } 
+    /*RESUME*/
+    .resV 
+    {
+        width: 100%;
+        height:auto;
+    }
+    #education
+    {
+        order:2;
+    }
+    .resBox, #experience, #education, #gameDev, #graphProg, #languages, #engApiSof
+    {
+        height:auto;
+    }
+    aside #summary p
+    {
+	    -webkit-column-count: 		1;
+	    -moz-column-count: 			1;
+	    column-count: 				1;
+    }
+    aside
+    {
+        flex-direction:column;
+    }
+    #summary{width:100%;}
+    #pdf
+    {
+        order:2;
+        align-self:flex-end;
+        height:auto;
+    }
+    aside div, aside #summary
+    {
+        width:100%;
+    }
+    aside #summary
+    {
+        margin-top:6em;
+    }
+}
+@media (max-width: 33.750em)
+{
+    /*PORTFOLIO*/
+    #portfolio a .pBorder
+    {
+        width:100%;
+        height:30rem;
+        margin-left:0;
+        margin-right:0;
+    }
+    /*OTHER PROJECTS*/
+	#otherProjects a .pBorder
+	{
+		width:					100%;
+        margin-left:0;
+        margin-right:0;
+	}
+}
+@media (max-width: 22.500em)
+{
+    h1 {
+        font-size:2.5rem;
+    }
+    h2
+    {
+        font-size:1.6rem;
+    } 
+    h3
+    {
+        font-size:2rem;
+    } 
+    .menuBtn
+    {
+        font-size:2rem;
+	    margin:	0.2em auto;
+    }
+    .MENU
+    {
+        height:3.475rem;
+    }
+    .MENU .lines 
+    {
+        height:2.6rem;
+    }
+    .expand
+    {
+        height:auto;
+    }
+    #home
+    {
+    	height:	3.475em;
+    }
+    .SEPARATOR
+    {
+    	height:	3.475em;
+    }
+    .SEPARATOR div 
+    {
+	height:	2.6em;
+    }
+}
