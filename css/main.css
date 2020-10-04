@@ -105,17 +105,18 @@ body
 	list-style:					none;
 	text-align:					center;
 	text-decoration:			none;
-	background-color:			#FFFFFF;
+	/* background-color:			#FFFFFF; */
 	border-radius:				1.25em;
-	transition:					background-color 0.3s;
+	/* transition:					background-color 0.3s; */
 }
 .MENU div a:hover div		
 {	
-	background-color:			#85A7FF;
+	/* background-color:			#85A7FF; */
 }
 .MENU div a div h3
 {
-	color:						#1D1E29;
+	/* color:						#1D1E29; */
+	color:						#FFFFFF;
 	margin-bottom:				0.1em;
 	margin-top:					0.1em;
 	margin-left:				0.333em;
@@ -124,7 +125,7 @@ body
 }
 .MENU div a:hover div h3
 {
-	color:						#FFFFFF;
+	color:						#D64f49;
 }
 
 /*HOME*/
@@ -207,8 +208,8 @@ a .pBorder
 	margin:						0.5%;
 	width:						24%;
 	height:						96%;
-	border-radius:				1.875em;
-    background:                 #85A7FF;	
+	/* border-radius:				1.875em;
+    background:                 #85A7FF;	 */
 	z-index:					0;	
 }
 a div article
@@ -218,7 +219,7 @@ a div article
     height:                     96%;
 	margin:						1% 2%;
     top:                        1%;
-	border-radius:				1.75em;
+	border-radius:				0.75em;
 	background-position:		center;
 	background-size:			cover;
     background-repeat:          repeat;
@@ -271,7 +272,7 @@ a .description h4
 	transform:					translateY(-100%);
 	transition:					transform 0.5s;
 	text-align:					center;
-	border-radius:				0.5em;
+	/* border-radius:				0.5em; */
 	background:					#FF633F; 
 }	
 a:hover .description h4
@@ -285,7 +286,7 @@ a .description div
 	font-size:					1.313em;
 	transform:					translateY(-200%);
 	transition:					transform 0.5s;
-	border-radius:				0.5em;
+	/* border-radius:				0.5em; */
 	background:					rgba(29,30,41,0.7); 
 	margin-bottom:				4%;
 }	
@@ -302,7 +303,7 @@ a .description .team
 	text-align:					center;
 	bottom:						0;
 	right:						0;
-	border-radius:				0.5em;
+	/* border-radius:				0.5em; */
 	background:					#1D1E29; 
 	font-size:					1.5em;
     width:                      100%;
@@ -324,8 +325,8 @@ aside
 	padding:					1%;
 	margin-top:					0.5em;
 	margin-bottom:				0.5em;
-	background:					#85A7FF;
-	border-radius:				1.875em;
+	/* background:					#85A7FF;
+	border-radius:				1.875em; */
 }	
 aside div
 {
@@ -366,7 +367,7 @@ aside #summary p
 }
 aside div a #pdfBg
 {
-    border-radius:              1.5em;
+    border-radius:              .75em;
     margin:                     0 auto;
     width:                      60%;
     height:                     100%;
@@ -380,7 +381,7 @@ aside div a #pdfBg h4
     width:                      100%;
     text-decoration:            none;
 	text-align:					center;
-	border-radius:				0.5em;
+	/* border-radius:				0.5em; */
 	background:					#1D1E29; 
     transition:                 background-color 0.3s;
     transform:                  translateY(0%);
@@ -570,8 +571,8 @@ aside div a #pdfBg:hover h4
 	padding:					1%;
 	margin-top:					0.5em;
 	margin-bottom:				0.5em;
-	background:					#85A7FF;
-	border-radius:				1.875em;
+	/* background:					#85A7FF; */
+	border-radius:				.75em;
 	text-align:					center;
 }
 #links a
