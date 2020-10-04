@@ -80,7 +80,7 @@ body
 }
 .MENU div a img		
 {	
-	width:						4em;
+	width:						3.9em;
 	margin-top:					-50%;
 	transform: 					translateY(1em);
     -webkit-filter:             grayscale(100%) brightness(300%);
@@ -99,6 +99,7 @@ body
 }
 .MENU div a div		
 {		
+	font-size: 0.9em;
 	margin-top:-50%;
 	display:					inline-block;
 	list-style:					none;
