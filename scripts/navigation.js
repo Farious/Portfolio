@@ -28,3 +28,10 @@ window.onclick = function (event) {
         }
     }
 }
+
+function clickableProject(object)
+{
+    var isHovered = object.matches(':hover');
+    var isDescriptionVisible = getComputedStyle(object.getElementsByClassName('description')[0].children[0])['transform'].length < 26;
+    return  isHovered && isDescriptionVisible;
+}
