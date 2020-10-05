@@ -201,7 +201,7 @@
     {
         order:2;
         align-self:flex-end;
-        height:auto;
+        /* height:auto; */
     }
     aside div, aside #summary
     {

@@ -15,6 +15,7 @@
     <meta name="author" content="Fábio Reis">
 
     <script src="scripts/scroll.js"></script>
+    <script src="scripts/navigation.js"></script>
     <script src="scripts/parallax.js"></script>
 
     <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -24,14 +25,15 @@
     <!--MENU-->
     <nav class="MENU" id="top">
         <div class="lines"></div>
+        <button onclick="toggleMenu()" class="menuBtn">Menu</button>
         <div id="menList" class="list">
             <a href="#home">
-                <img class="menImg" src="img/planets/Terran.png" alt="return to home">
+                <img class="menImg" src="img/planets/Terran.png" alt="home button or back to top" />
                 <div class="menTxt"><h3>Home</h3></div>
             </a>
-            <a href="#portfolio"><div><h3>Portfolio</h3></div></a>
-            <a href="#resume"><div><h3>Resume</h3></div></a>
-            <a href="#contact"><div><h3>Contact</h3></div></a>
+            <a onclick="toggleMenu()" href="#portfolio"><div><h3>Portfolio</h3></div></a>
+            <a onclick="toggleMenu()" href="#resume"><div><h3>Resume</h3></div></a>
+            <a onclick="toggleMenu()" href="#contact"><div><h3>Contact</h3></div></a>
         </div>
     </nav>
     <div id="home"></div>
