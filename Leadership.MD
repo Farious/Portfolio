@@ -68,15 +68,15 @@ Now I would do a similar exercise with your IC's
 
 ## Top 10 tips
 
-### 1 - Perception is reality
+### 1 - Perception is reality - STUB
 
-Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [10]
+Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [Perception is not reality][10]
 
-### 2 - Active listening
+### 2 - Active listening - STUB
 
-All about [20].
+All about [ActiveListening][20].
 
-### 
+### 3 ...
 
 ## Reference material
 
