@@ -32,7 +32,7 @@ I urge you to talk with your lead/manager or even with the human resources depar
 
 ## You've become a leader/manager now what?
 
-### Firs steps
+### First steps
 
 I would start with questioning - something that fundamentally changed me was fully embrace the concept of **perception is reality**.
 
@@ -68,11 +68,11 @@ Now I would do a similar exercise with your IC's
 
 ## Top 10 tips
 
-### Perception is reality
+### 1 - Perception is reality
 
 Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [10]
 
-### Active listening
+### 2 - Active listening
 
 All about [20].
 
