@@ -1,12 +1,22 @@
 # Leadership
 
+## Under-development // 18th April 2021
+
 Welcome!
 
-I'm Fábio and I've been leading teams for the past 5 years in the game development area - software developers.
+I'm Fábio and I've been leading teams for the past 5 years in the game development area - specifically - software developers.
 
 I don't know if I'm a good leader/manager and this content is not about that, its mainly about showing tools that I've learned along my journey and that I would love to know since my first days as a leader/manager.
 
 Hopefully you will learn some new tools and add them to your toolbelt; or you will notice that you've been using one of the successfully already and after reading you will be making a more conscious decision of when to use it; or, you won't agree with something that I wrote here and will help you find your own path down this road.
+
+[Don't panic][100]
+
+There will be so many unknowns in the first days, well even years, and most likely your questions are the same as your own peers! Even those outside of your current company.
+
+Its exactly that feeling that made me write this document, so that others won't go through this initial phase thinking that probably they are failing at something or that they might've overlooked something that lead to all of these uncertainties in the air. 
+
+I had the fortune of having really good leaders in my life starting from my personal life up until my professional experience, specially at Miniclip where I was lead by someone that did such a good job that inspired me to be better.
 
 ## What do I consider to be leadership?
 
@@ -28,11 +38,11 @@ For me, and given my experience, I like to structure it like this in my head in 
 
 Your current role might be more managerial or more leadership, even though your role might be called something else. 
 
-I urge you to talk with your lead/manager or even with the human resources department to understand what are your own responsabilities and to understand your own _sphere of influence_ which encompasses what _you_ can shape in the company; and whose decisions you can influence directly - this most likely won't be clearly defined and will be highly shpaed by your personality and ambitions/aspirations.
+I urge you to talk with your lead/manager or even with the human resources department to understand what are your own responsabilities and to understand your own _sphere of influence_ which encompasses what _you_ can shape in the company; and whose decisions you can influence directly - this most likely won't be clearly defined and will be highly shaped by your personality and ambitions/aspirations.
 
 ## You've become a leader/manager now what?
 
-### First steps
+### Firs steps
 
 I would start with questioning - something that fundamentally changed me was fully embrace the concept of **perception is reality**.
 
@@ -43,8 +53,12 @@ To reduce the area of uncertainty and reduce the number of ways something can be
 - Question your responsibilities:
   - What will drive your performance evaluation?
   - What are your line manager expectations?
-  - What are your team expecations?
+  - What are your team expectations?
   - What's your job specification?
+- Question your role:
+  - Are you expected to be a fully dedicated leader/manager?
+  - Are you expected to participate as a developer?
+  - Do you have technical ownership over your team/project?
 - Question/Ask for goals:
   - What should you achieve this year? (Quarterly even beter)
   - What's your team's goals for the year (quarterly)?
@@ -68,15 +82,15 @@ Now I would do a similar exercise with your IC's
 
 ## Top 10 tips
 
-### 1 - Perception is reality - STUB
+### Perception is reality
 
-Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [Perception is not reality][10]
+Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [10]
 
-### 2 - Active listening - STUB
+### Active listening
 
-All about [ActiveListening][20].
+All about [20].
 
-### 3 ...
+### 
 
 ## Reference material
 
@@ -91,6 +105,7 @@ All about [ActiveListening][20].
 9. [https://youtu.be/xNjfruknpaQ][9]
 10. [https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality][10]
 11. [https://en.wikipedia.org/wiki/Active_listening][20]
+12. [https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic][100]
 
 [1]: https://en.wikipedia.org/wiki/Management
 [2]: https://en.wikipedia.org/wiki/Leadership
@@ -103,3 +118,4 @@ All about [ActiveListening][20].
 [9]: https://youtu.be/xNjfruknpaQ
 [10]: https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality
 [20]: https://en.wikipedia.org/wiki/Active_listening
+[100]: https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic
