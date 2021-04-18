@@ -6,7 +6,7 @@ Welcome!
 
 I'm Fábio and I've been leading teams for the past 5 years in the game development area - specifically - software developers.
 
-I don't know if I'm a good leader/manager and this content is not about that, its mainly about showing tools that I've learned along my journey and that I would love to know since my first days as a leader/manager.
+This content is about showing tools that I've learned along my journey and that I would love to have known them in my first days as a leader/manager.
 
 Hopefully you will learn some new tools and add them to your toolbelt; or you will notice that you've been using one of the successfully already and after reading you will be making a more conscious decision of when to use it; or, you won't agree with something that I wrote here and will help you find your own path down this road.
 
