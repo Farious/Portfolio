@@ -1,54 +1,67 @@
 # Leadership
 
-## Under-development // 18th April 2021
+## Under-development // 26th April 2021
 
 Welcome!
 
 I'm Fábio and I've been leading teams for the past 5 years in the game development area - specifically - software developers.
 
-This content is about showing tools that I've learned along my journey and that I would love to have known them in my first days as a leader/manager.
+This content is about showing tools that I've learned along my journey and that I would love to have known since my first days as a leader/manager.
 
-Hopefully you will learn some new tools and add them to your toolbelt; or you will notice that you've been using one of the successfully already and after reading you will be making a more conscious decision of when to use it; or, you won't agree with something that I wrote here and will help you find your own path down this road.
+I foresee that if you continue reading, at least one of the following will happen:
+
+- You learn some new tools and add them to your toolbelt;
+- You will notice that you've been using one of them successfully already, and afterwards you will do so more consciously;
+- or, you won't agree with what I wrote, trigerring you to keep looking for your own path down the leadership role.
+
+Everything that's written in this post is highly personal and portaits my own view/perspective and, above all, my own experience since I was promoted up until now.
+
+## You've been promoted into a leadership position!
 
 [Don't panic][100]
 
-There will be so many unknowns in the first days, well even years, and most likely your questions are the same as your own peers! Even those outside of your current company.
+There will be so many unknowns in the first days, well even years, and if you have friends/colleagues that were promoted just now as well, I'd say that it is likely that your questions are the same as those of your own peers!
 
-Its exactly that feeling that made me write this document, so that others won't go through this initial phase thinking that probably they are failing at something or that they might've overlooked something that lead to all of these uncertainties in the air. 
+Feeling that other's questions were just like my own; or the common thought that I'm probably failing at something ("is there something trivial missing?"); or, that I might've overlooked something that ultimately lead to a constant feeling of uncertainty and even failure or inaptness - all of this triggered me to write this document, so that others won't feel the same or feel alone in it.
 
-I had the fortune of having really good leaders in my life starting from my personal life up until my professional experience, specially at Miniclip where I was lead by someone that did such a good job that inspired me to be better.
+I had the good fortune of having really good leaders in my life, starting from my personal life up until my professional experience. 
+
+One of those leaders was at Miniclip and it was him that helped me grow in this new position. First because he trully inspired me as a leader, making me follow him; and lastly, something that I used as my "clutch", it was something that he would answer whenever I questioned if I was really fit for the position: 
+
+    If you were promoted to be a leader its because I trust in you and that you will do a great job at it. It wasn't mere chance.
 
 ## What do I consider to be leadership?
 
-I'm going to start with something that might be polarizing - leadership/management is not about being a psychologist; profiling; 
+I'm going to start with something that might be polarizing - leadership/management is not about being a psychologist; being a profiller; guess other's inner motivations; etc
 
 ### Management vs Leadership
 
-The definition of [management][1] and [leadership][2] is really well defined as one can check on wikipedia.
+Both [management][1] and [leadership][2] are really well defined, as one can check on wikipedia.
 
-Although this is not the case when working in a business, where both terms are used interchangeably and you might even end up putting both hats during the year.
+Although I fear this is not the case when working in a business, where both terms might be used interchangeably and you might even end up putting both hats during the year.
 
-For me, and given my experience, I like to structure it like this in my head in a ELI5 manner:
+I like to structure both definitions in such a way that I could explain it to one of my kids, almost in a ELI5 manner - so that I could use them as a compass:
 
-- Manager - Approves vacations and time/project allocation of individuals
-- Leader - Grows and empowers individuals to be better professionals
-- IC - Individual contributor, the individuals that report to you
-- Line Manager - Your own leader/manager
-- Team - Everyone that works directly with you and your IC's
+- Manager - Approves vacations; time/project allocation of individuals; etc
+- Leader - Grows/Empowers individuals to be better professionals; 
+- IC - Individual contributor, the individuals that report to you;
+- Line Manager - Your own leader/manager;
+- Team - Everyone that works directly with you and, potentially, with your IC;
+- HRBP - Human resource business partner, it's the person/team that directly interacts with you or your team.
 
-Your current role might be more managerial or more leadership, even though your role might be called something else. 
-
-I urge you to talk with your lead/manager or even with the human resources department to understand what are your own responsabilities and to understand your own _sphere of influence_ which encompasses what _you_ can shape in the company; and whose decisions you can influence directly - this most likely won't be clearly defined and will be highly shaped by your personality and ambitions/aspirations.
+Your current role might be more managerial or more leadership focused and, on top of that, it might even be called something else completely different.
 
 ## You've become a leader/manager now what?
 
-### Firs steps
+### First step
 
-I would start with questioning - something that fundamentally changed me was fully embrace the concept of **perception is reality**.
+I would start with *questioning* - something that fundamentally changed me was fully embracing the concept of **perception is reality**.
 
-Which in my _perception_ its really scary, what ever someone else perceives will be the thing that will shape his own reality! Just like seeing/smelling/etc.
+Which in my _perception_ its really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
 
-To reduce the area of uncertainty and reduce the number of ways something can be perceived by someone (you are included in it!) I would start with questioning - mainly your line manager.
+  Ex.1. If your IC sees you working at 00h15 (a commit with that timestamp) will he know that you agreed to take sometime off with your line manager during the day for some personal matters? and your peers? How will that shape their relationship with you or with the company?
+
+To reduce the area of uncertainty as well as the number of ways something can be perceived by someone (you included!) I would start with questioning - mainly questioning your line manager and your HRBP.
 
 - Question your responsibilities:
   - What will drive your performance evaluation?
@@ -59,18 +72,23 @@ To reduce the area of uncertainty and reduce the number of ways something can be
   - Are you expected to be a fully dedicated leader/manager?
   - Are you expected to participate as a developer?
   - Do you have technical ownership over your team/project?
-- Question/Ask for goals:
+  - What's believed to be your _sphere of  influence_?
+- Ask for goals:
   - What should you achieve this year? (Quarterly even beter)
   - What's your team's goals for the year (quarterly)?
   - What's your company's goals for the year (quarterly)?
   - What's your team's vision?
   - What's the company's vision?
-- Question/Ask about your IC's
+- Ask about your IC's:
   - Is there something you need to know before hand?
   - What personal goals did they commit to? Where are they written?
   - Are there any under-performers? over-performers?
   - Is there anyone key to the company?
   - Can you get access to their past performance reviews?
+- Ask about your promotion:
+  - Why have you been promoted?
+  - What are your strenghts?
+  - What are your weaknesses? 
 
 Now I would do a similar exercise with your IC's
 
@@ -85,6 +103,10 @@ Now I would do a similar exercise with your IC's
 ### Perception is reality \\STUB
 
 Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [10]
+
+### Sphere of influence
+
+_sphere of influence_ which encompasses what _you_ can shape in the company; whose decisions you can influence directly - don't expect this to be clearly defined and it will be highly shaped by your personality and ambitions/aspirations.
 
 ### Active listening \\STUB
 
