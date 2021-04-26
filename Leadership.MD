@@ -92,6 +92,14 @@ All about [20].
 
 ### ... \\STUB
 
+### Leading someone that you were already close with
+
+### Leading someone that is becoming now a friend
+
+### You have someone in probation what do do?!?
+
+### Underperfomers? what now?
+
 ## Reference material
 
 1. [https://en.wikipedia.org/wiki/Management][1]
