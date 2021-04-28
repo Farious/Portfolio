@@ -1,6 +1,6 @@
 # Leadership
 
-## Under-development // 26th April 2021
+## Under-development // 28th April 2021
 
 Welcome!
 
@@ -53,15 +53,11 @@ Your current role might be more managerial or more leadership focused and, on to
 
 ## You've become a leader/manager now what?
 
-### First step
+### First step \\STUB
 
-I would start with *questioning* - something that fundamentally changed me was fully embracing the concept of **perception is reality**.
+I would start with **questioning**.
 
-Which in my _perception_ its really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
-
-  Ex.1. If your IC sees you working at 00h15 (a commit with that timestamp) will he know that you agreed to take sometime off with your line manager during the day for some personal matters? and your peers? How will that shape their relationship with you or with the company?
-
-To reduce the area of uncertainty as well as the number of ways something can be perceived by someone (you included!) I would start with questioning - mainly questioning your line manager and your HRBP.
+To reduce the area of uncertainty about your role, as well as the number of ways something can be perceived by someone (you included!), I would start with questions - mainly directed at either your line manager and/or your HRBP.
 
 - Question your responsibilities:
   - What will drive your performance evaluation?
@@ -98,13 +94,17 @@ Now I would do a similar exercise with your IC's
 - What is going on well? 
 - What needs to be changed?
 
-## Top 10 tips
+## Top 10 tips \\STUB
 
 ### Perception is reality \\STUB
 
 Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [10]
 
-### Sphere of influence
+Which in my _perception_ its really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
+
+    ex.1: If your _IC_ sees you working at 00h15, e.g. a commit with that timestamp, will he know that you agreed to take sometime off with your _line manager_ and that you would make it back later? and your peers? How will that shape their relationship with you or with the company?
+
+### Sphere of influence \\STUB
 
 _sphere of influence_ which encompasses what _you_ can shape in the company; whose decisions you can influence directly - don't expect this to be clearly defined and it will be highly shaped by your personality and ambitions/aspirations.
 
@@ -112,15 +112,21 @@ _sphere of influence_ which encompasses what _you_ can shape in the company; who
 
 All about [20].
 
+### Juggling Koan \\STUB
+
+All about [200].
+
 ### ... \\STUB
 
-### Leading someone that you were already close with
+### Leading someone that you were already close with \\STUB
 
-### Leading someone that is becoming now a friend
+### Leading someone that is becoming now a friend \\STUB
 
-### You have someone in probation what do do?!?
+### You have someone in probation what do do?!? \\STUB
 
-### Underperfomers? what now?
+### Underperfomers? What now? \\STUB
+
+### Being you - a human \\STUB
 
 ## Reference material
 
@@ -136,6 +142,7 @@ All about [20].
 10. [https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality][10]
 11. [https://en.wikipedia.org/wiki/Active_listening][20]
 12. [https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic][100]
+13. [https://www.manager-tools.com/2007/01/the-juggling-koan][200]
 
 [1]: https://en.wikipedia.org/wiki/Management
 [2]: https://en.wikipedia.org/wiki/Leadership
@@ -149,3 +156,4 @@ All about [20].
 [10]: https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality
 [20]: https://en.wikipedia.org/wiki/Active_listening
 [100]: https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic
+[200]: https://www.manager-tools.com/2007/01/the-juggling-koan
