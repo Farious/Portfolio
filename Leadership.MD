@@ -28,7 +28,7 @@ I had the good fortune of having really good leaders in my life, starting from m
 
 One of those leaders was at Miniclip and it was him that helped me grow in this new position. First because he trully inspired me as a leader, making me follow him; and lastly, something that I used as my "clutch", it was something that he would answer whenever I questioned if I was really fit for the position: 
 
-    If you were promoted to be a leader its because I trust in you and that you will do a great job at it. It wasn't mere chance.
+> If you were promoted to be a leader its because I trust in you and that you will do a great job at it. It wasn't mere chance.
 
 ## What do I consider to be leadership?
 
@@ -102,7 +102,7 @@ Because perception IS NOT reality but it is really easiy to fall into that trap 
 
 Which in my _perception_ its really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
 
-    ex.1: If your _IC_ sees you working at 00h15, e.g. a commit with that timestamp, will he know that you agreed to take sometime off with your _line manager_ and that you would make it back later? and your peers? How will that shape their relationship with you or with the company?
+> *ex.1:* If your _IC_ sees you working at 00h15, e.g. a commit with that timestamp, will he know that you agreed to take sometime off with your _line manager_ and that you would make it back later? and your peers? How will that shape their relationship with you or with the company?
 
 ### Sphere of influence \\STUB
 
