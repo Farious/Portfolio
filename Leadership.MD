@@ -51,9 +51,7 @@ I like to structure both definitions in such a way that I could explain it to on
 
 Your current role might be more managerial or more leadership focused and, on top of that, it might even be called something else completely different.
 
-## You've become a leader/manager now what?
-
-### First step \\STUB
+## You've become a leader now what?
 
 I would start with **questioning**.
 
@@ -94,27 +92,52 @@ Now I would do a similar exercise with your IC's
 - What is going on well? 
 - What needs to be changed?
 
-## Top 10 tips \\STUB
+## Ten tools to have in your belt
 
-### Perception is reality \\STUB
+### 1. Understanding that perception is reality
 
-Because perception IS NOT reality but it is really easiy to fall into that trap and assume that what you perceive is your own reality [10]
+Because perception is **NOT** reality but it really *is* easy to fall into that trap and assume that what you perceive is your _own_ reality \[[10]\].
 
-Which in my _perception_ its really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
+Which in my _perception_ its scary, whatever someone else perceives will be: perceived as being reality; or, shaping his own notion of it.
 
-> *ex.1:* If your _IC_ sees you working at 00h15, e.g. a commit with that timestamp, will he know that you agreed to take sometime off with your _line manager_ and that you would make it back later? and your peers? How will that shape their relationship with you or with the company?
+#### How it shaped my leadership
+
+- Constantly trying to understand how my actions, or my teams', would be perceived by others;
+- If someone reports me a situation I always _double click_ to get to the facts;
+- I never assume that someone might be lying, at most its their incomplete percepetion of the facts shaping their
+
+#### Examples
+
+If your _IC_ sees you working at 00h15, e.g. a commit with that timestamp, will he know that you agreed to take sometime off with your _line manager_ and that you would make it back later? and your peers? How will that shape their relationship with you or with the company?
+
+### Double clicking \\STUB
+
+Someone said something just briefly? Ask about it, will be relevant that you understand it.
+
+### Active listening \\STUB
+
+In a two-sided conversation you need to listen and talk! You can't be thinking in what you did for lunch yesterday or what to say next; OR what they will be saying next! You need to listen and show that you are listening.
+
+Active listening is about showing to the other that you are listening and, ensuring that you are engaged in the conversation.
+
+If not, does it make sense to be having one?
+All about [20].
 
 ### Sphere of influence \\STUB
 
 _sphere of influence_ which encompasses what _you_ can shape in the company; whose decisions you can influence directly - don't expect this to be clearly defined and it will be highly shaped by your personality and ambitions/aspirations.
 
-### Active listening \\STUB
-
-All about [20].
-
 ### Juggling Koan \\STUB
 
+You are juggling tasks and responsibilities until they feel easy and light, now you can take on bigger ones. What do you do? - You pass those small balls to your _IC_'s that are interested in them! They won't have the same size for them, as they had for you, and you will be free to take one more.
+
+Sometimes its ok to let one of them drop to the floor.
+
 All about [200].
+
+### Relationship bank account \\STUB
+
+Every action can be seen as a withdraw or a deposit. Do you have a positive balance?
 
 ### ... \\STUB
 
