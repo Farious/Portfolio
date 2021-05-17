@@ -1,6 +1,8 @@
 # Leadership
 
-## Under-development // 28th April 2021
+***
+
+## Under-development // 17th May 2021
 
 Welcome!
 
@@ -16,9 +18,11 @@ I foresee that if you continue reading, at least one of the following will happe
 
 Everything that's written in this post is highly personal and portaits my own view/perspective and, above all, my own experience since I was promoted up until now.
 
+***
+
 ## You've been promoted into a leadership position!
 
-[Don't panic][100]
+[Don't panic][12]
 
 There will be so many unknowns in the first days, well even years, and if you have friends/colleagues that were promoted just now as well, I'd say that it is likely that your questions are the same as those of your own peers!
 
@@ -29,6 +33,8 @@ I had the good fortune of having really good leaders in my life, starting from m
 One of those leaders was at Miniclip and it was him that helped me grow in this new position. First because he trully inspired me as a leader, making me follow him; and lastly, something that I used as my "clutch", it was something that he would answer whenever I questioned if I was really fit for the position: 
 
 > If you were promoted to be a leader its because I trust in you and that you will do a great job at it. It wasn't mere chance.
+
+***
 
 ## What do I consider to be leadership?
 
@@ -51,54 +57,84 @@ I like to structure both definitions in such a way that I could explain it to on
 
 Your current role might be more managerial or more leadership focused and, on top of that, it might even be called something else completely different.
 
+***
+
 ## You've become a leader now what?
 
-I would start with **questioning**.
+### Understand your role and responsibilities
+
+It is important to fully understand your role and the expectations towards your results. Something that its trivial to do but easy to forget is to start with **questioning**.
 
 To reduce the area of uncertainty about your role, as well as the number of ways something can be perceived by someone (you included!), I would start with questions - mainly directed at either your line manager and/or your HRBP.
 
-- Question your responsibilities:
-  - What will drive your performance evaluation?
-  - What are your line manager expectations?
-  - What are your team expectations?
-  - What's your job specification?
-- Question your role:
-  - Are you expected to be a fully dedicated leader/manager?
-  - Are you expected to participate as a developer?
-  - Do you have technical ownership over your team/project?
-  - What's believed to be your _sphere of  influence_?
-- Ask for goals:
-  - What should you achieve this year? (Quarterly even beter)
-  - What's your team's goals for the year (quarterly)?
-  - What's your company's goals for the year (quarterly)?
-  - What's your team's vision?
-  - What's the company's vision?
-- Ask about your IC's:
-  - Is there something you need to know before hand?
-  - What personal goals did they commit to? Where are they written?
-  - Are there any under-performers? over-performers?
-  - Is there anyone key to the company?
-  - Can you get access to their past performance reviews?
-- Ask about your promotion:
-  - Why have you been promoted?
-  - What are your strenghts?
-  - What are your weaknesses? 
+- <details open><summary>Question your responsibilities:</summary>
 
-Now I would do a similar exercise with your IC's
+    - What will drive your performance evaluation?
+    - What are your line manager expectations?
+    - What are your team expectations?
+    - What is your job specification?
+    - ...
+  </details>
+
+- <details open><summary>Question your role:</summary>
+
+    - Are you expected to be a fully dedicated leader/manager?
+    - Are you expected to participate as a developer?
+    - Do you have technical ownership over your team/project?
+    - What's believed to be your _sphere of  influence_?
+    - Who are your peers?
+    - ...
+  </details>
+
+- <details open><summary>Question your goals:</summary>
+
+    - What should you achieve this year? (quarterly would be even better)
+    - What are your team's goals for the year (quarterly)?
+    - What are your company's goals for the year (quarterly)?
+    - What is your team's vision?
+    - What is the company's vision?
+    - ...
+  </details>
+
+- <details open><summary>Question about your team:</summary>
+
+    - Is there something you need to know before hand?
+    - What personal goals did they commit to? Where are they written?
+    - Are there any under-performers? over-performers?
+    - Who are the key individuals?
+    - Can you get access to their past performance reviews?
+    - ...
+  </details>
+
+- <details open><summary>Question your promotion:</summary>
+
+    - Why have you been promoted?
+    - In your manager's perspective:
+      - What are your strenghts?
+      - What are your weaknesses?
+    - ...
+  </details>
+
+Finally, it is important that you do a similar exercise with each individual of your team:
 
 - What are their expectations towards you?
 - What are their current personal goals?
 - What do they believe you need to know about them?
 - What is going on well? 
 - What needs to be changed?
+- ...
+
+***
 
 ## Ten tools to have in your belt
 
 ### 1. Understanding that perception is reality
 
-Because perception is **NOT** reality but it really *is* easy to fall into that trap and assume that what you perceive is your _own_ reality \[[10]\].
+Reality may be more than what is being perceived by an individual, but it is easy to fall into that trap and assume that, indeed, what you perceive is reality \[[3]\].
 
-Which in my _perception_ its scary, whatever someone else perceives will be: perceived as being reality; or, shaping his own notion of it.
+I find this to be really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
+
+Having this in consideration will help you better understand when others talk with you; identifying potential assumptions; questioning for their context, to understand their perspective; etc.
 
 #### How it shaped my leadership
 
@@ -106,9 +142,16 @@ Which in my _perception_ its scary, whatever someone else perceives will be: per
 - If someone reports me a situation I always _double click_ to get to the facts;
 - I never assume that someone might be lying, at most its their incomplete percepetion of the facts shaping their
 
-#### Examples
+#### Example
 
-If your _IC_ sees you working at 00h15, e.g. a commit with that timestamp, will he know that you agreed to take sometime off with your _line manager_ and that you would make it back later? and your peers? How will that shape their relationship with you or with the company?
+    You agree with your _line manager_ to take some time-off today and that you will make it later tonight.
+    
+    Your _individual contributor_ sees you working at 00h15, e.g. a commit timestamp.
+    - Will he know that you agreed with your lead?
+    - Will he think that you did overtime?
+    - Will that positevely re-inforce that its ok to work after-hours?
+    - And your peers? Will they think that you are trying to over-achieve?
+    - How will that shape their relationship with you or with the company?
 
 ### Double clicking \\STUB
 
@@ -121,7 +164,7 @@ In a two-sided conversation you need to listen and talk! You can't be thinking i
 Active listening is about showing to the other that you are listening and, ensuring that you are engaged in the conversation.
 
 If not, does it make sense to be having one?
-All about [20].
+All about \[[11]\].
 
 ### Sphere of influence \\STUB
 
@@ -133,7 +176,7 @@ You are juggling tasks and responsibilities until they feel easy and light, now 
 
 Sometimes its ok to let one of them drop to the floor.
 
-All about [200].
+All about \[[13]\].
 
 ### Relationship bank account \\STUB
 
@@ -154,29 +197,29 @@ Every action can be seen as a withdraw or a deposit. Do you have a positive bala
 ## Reference material
 
 1. [https://en.wikipedia.org/wiki/Management][1]
-2. [https://en.wikipedia.org/wiki/Leadership][2]
-3. [https://thetoolsmiths.org/codex/gdc/team_management/sessions][3]
-4. [https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a][4]
-5. [https://www.goodreads.com/book/show/16158601-turn-the-ship-around][5]
-6. [https://vimeo.com/68226771][6]
-7. [https://www.gamasutra.com/view/news/352672/Video_How_to_lead_a_healthier_more_effective_game_dev_team.php][7]
-8. [https://www.gdcvault.com/play/1023240/Lead-the-Way-A-Practical][8]
-9. [https://youtu.be/xNjfruknpaQ][9]
-10. [https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality][10]
-11. [https://en.wikipedia.org/wiki/Active_listening][20]
-12. [https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic][100]
-13. [https://www.manager-tools.com/2007/01/the-juggling-koan][200]
+1. [https://en.wikipedia.org/wiki/Leadership][2]
+1. [https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality][3]
+1. [https://thetoolsmiths.org/codex/gdc/team_management/sessions][4]
+1. [https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a][5]
+1. [https://www.goodreads.com/book/show/16158601-turn-the-ship-around][6]
+1. [https://vimeo.com/68226771][7]
+1. [https://www.gamasutra.com/view/news/352672/Video_How_to_lead_a_healthier_more_effective_game_dev_team.php][8]
+1. [https://www.gdcvault.com/play/1023240/Lead-the-Way-A-Practical][9]
+1. [https://youtu.be/xNjfruknpaQ][10] 
+1. [https://en.wikipedia.org/wiki/Active_listening][11]
+1. [https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic][12]
+1. [https://www.manager-tools.com/2007/01/the-juggling-koan][13]
 
 [1]: https://en.wikipedia.org/wiki/Management
 [2]: https://en.wikipedia.org/wiki/Leadership
-[3]: https://thetoolsmiths.org/codex/gdc/team_management/sessions
-[4]: https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
-[5]: https://www.goodreads.com/book/show/16158601-turn-the-ship-around
-[6]: https://vimeo.com/68226771
-[7]: https://www.gamasutra.com/view/news/352672/Video_How_to_lead_a_healthier_more_effective_game_dev_team.php
-[8]: https://www.gdcvault.com/play/1023240/Lead-the-Way-A-Practical
-[9]: https://youtu.be/xNjfruknpaQ
-[10]: https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality
-[20]: https://en.wikipedia.org/wiki/Active_listening
-[100]: https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic
-[200]: https://www.manager-tools.com/2007/01/the-juggling-koan
+[3]: https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality
+[4]: https://thetoolsmiths.org/codex/gdc/team_management/sessions
+[5]: https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a
+[6]: https://www.goodreads.com/book/show/16158601-turn-the-ship-around
+[7]: https://vimeo.com/68226771
+[8]: https://www.gamasutra.com/view/news/352672/Video_How_to_lead_a_healthier_more_effective_game_dev_team.php
+[9]: https://www.gdcvault.com/play/1023240/Lead-the-Way-A-Practical
+[10]: https://youtu.be/xNjfruknpaQ
+[11]: https://en.wikipedia.org/wiki/Active_listening
+[12]: https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic
+[13]: https://www.manager-tools.com/2007/01/the-juggling-koan
