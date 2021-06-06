@@ -204,6 +204,10 @@ All about \[[13]\].
 
 Every action can be seen as a withdraw or a deposit. Do you have a positive balance?
 
+### 7. Open/Closed Biased/Unbiased questions \\STUB
+
+There are several distinct ways that you can ask a question, the way you do will define the answer you get; the shape of the conversation from that point onwards; the relationship with the person.
+
 ### ... \\STUB
 
 ### Leading someone that you were already close with \\STUB
