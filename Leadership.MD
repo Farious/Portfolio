@@ -140,7 +140,7 @@ Having this in consideration will help you better understand when others talk wi
 
 - Constantly trying to understand how my actions, or my teams', would be perceived by others;
 - If someone reports me a situation I always _double click_ to get to the facts;
-- I never assume that someone might be lying, at most its their incomplete percepetion of the facts shaping their
+- I never assume that someone might be lying, most times its their incomplete percepetion of the situation that shapes what they believe are facts
 
 #### Example
 
