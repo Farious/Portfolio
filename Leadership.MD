@@ -153,11 +153,11 @@ Having this in consideration will help you better understand when others talk wi
     - And your peers? Will they think that you are trying to over-achieve?
     - How will that shape their relationship with you or with the company?
 
-### Double clicking \\STUB
+### 2. Double clicking \\STUB
 
 Someone said something just briefly? Ask about it, will be relevant that you understand it.
 
-### Active listening \\STUB
+### 3. Active listening \\STUB
 
 In a two-sided conversation you need to listen and talk! You can't be thinking in what you did for lunch yesterday or what to say next; OR what they will be saying next! You need to listen and show that you are listening.
 
@@ -166,11 +166,11 @@ Active listening is about showing to the other that you are listening and, ensur
 If not, does it make sense to be having one?
 All about \[[11]\].
 
-### Sphere of influence \\STUB
+### 4. Sphere of influence \\STUB
 
 _sphere of influence_ which encompasses what _you_ can shape in the company; whose decisions you can influence directly - don't expect this to be clearly defined and it will be highly shaped by your personality and ambitions/aspirations.
 
-### Juggling Koan \\STUB
+### 5. Juggling Koan \\STUB
 
 You are juggling tasks and responsibilities until they feel easy and light, now you can take on bigger ones. What do you do? - You pass those small balls to your _IC_'s that are interested in them! They won't have the same size for them, as they had for you, and you will be free to take one more.
 
@@ -178,7 +178,7 @@ Sometimes its ok to let one of them drop to the floor.
 
 All about \[[13]\].
 
-### Relationship bank account \\STUB
+### 6. Relationship bank account \\STUB
 
 Every action can be seen as a withdraw or a deposit. Do you have a positive balance?
 
