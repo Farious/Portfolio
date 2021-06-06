@@ -155,7 +155,29 @@ Having this in consideration will help you better understand when others talk wi
 
 ### 2. Double clicking \\STUB
 
-Someone said something just briefly? Ask about it, will be relevant that you understand it.
+When browsing through your file system on Windows it is normal to *double click* folders to understand what they may contain.
+This section is about having a similar approach when talking with others.
+
+If someone says something to you in a conversation its because it matters either to the person or to the conversation, although sometimes it might not even be a conscious decision though.
+
+By double clicking you will get a deeper insight into the conversation, helping you be engaged with the person and with the conversation - even if you are not and if we remember the #1 tool, you will appear to be doing it.
+Getting a deeper insight will allow you to more easily extract the relevant data and/or help take more informed decisions, which can only be good.
+
+#### How it shaped my leadership
+
+The more I had one-on-one's with my IC's the better I knew them, which helped me understand what "keywords" they used that would have a whole thread of conversation that would benefit both. 
+So I uncousciously picked them up, sometimes, and went deeper with meaningful conversations.
+
+When I learned about double clicking was when it got from uncouscious into a conscious decision! Helped me pick up way more relevant data from my conversations.
+
+This shaped my leadership but the way I talk with my family as well.
+
+#### Example
+
+    A: Even though I'm not proficient I moved to closer-to-the-metal languages as it allowed for better memory tracking issues. 
+    B.1: What type of memory problems were you having?
+    B.2: Was there a better approach that you could've taken?
+    B.3: What makes you say you are not proficient?
 
 ### 3. Active listening \\STUB
 
