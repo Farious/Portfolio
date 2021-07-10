@@ -2,7 +2,7 @@
 layout: post
 title: "You've been promoted into a leadership position"
 date: 2021-07-10 00:00:00 -0000
-categories: LEADERSHIP
+categories: LEADERSHIP TOOLS
 ---
 
 # You've been promoted into a leadership position!
