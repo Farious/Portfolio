@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Blog"
+permalink: /blog/
+---
+
 # Leadership Blog
 
 Welcome!
