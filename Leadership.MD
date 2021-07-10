@@ -169,8 +169,9 @@ Getting a deeper insight will allow you to more easily extract the relevant data
 
 #### How it shaped my leadership
 
-The more I had one-on-one's with my IC's the better I knew them, which helped me understand what "keywords" they used that would have a whole thread of conversation that would benefit both.
-So, sometimes, I would unconsciously picked them up and went deeper with meaningful conversations.
+The more I had one-on-one's with my IC's the better I knew them, which helped me understand when some words were actually "keywords" and, thus, could be unfolded into a whole thread of conversation benefiting both.
+
+So, sometimes, I would pick them subconsciously and use them to help me communicate better and go deeper into meaningful conversations.
 
 When I learned about double clicking was when it got from unconscious into a conscious decision! Helped me pick up way more relevant data from my conversations.
 
