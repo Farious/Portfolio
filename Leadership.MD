@@ -18,9 +18,9 @@ I foresee that if you continue reading, at least one of the following will happe
 
 - You learn some new tools and add them to your toolbelt;
 - You will notice that you've been using one of them successfully already, and afterwards you will do so more consciously;
-- or, you won't agree with what I wrote, trigerring you to keep looking for your own path down the leadership role.
+- or, you won't agree with what I wrote, triggering you to keep looking for your own path down the leadership role.
 
-Everything that's written in this post is highly personal and portaits my own view/perspective and, above all, my own experience since I was promoted up until now.
+Everything that's written in this post is highly personal and portraits my own view/perspective and, above all, my own experience since I was promoted up until now.
 
 ***
 
@@ -32,9 +32,9 @@ There will be so many unknowns in the first days, well even years, and if you ha
 
 Feeling that other's questions were just like my own; or the common thought that I'm probably failing at something ("is there something trivial missing?"); or, that I might've overlooked something that ultimately lead to a constant feeling of uncertainty and even failure or inaptness - all of this triggered me to write this document, so that others won't feel the same or feel alone in it.
 
-I had the good fortune of having really good leaders in my life, starting from my personal life up until my professional experience. 
+I had the good fortune of having really good leaders in my life, starting from my personal life up until my professional experience.
 
-One of those leaders was at Miniclip and it was him that helped me grow in this new position. First because he trully inspired me as a leader, making me follow him; and lastly, something that I used as my "clutch", it was something that he would answer whenever I questioned if I was really fit for the position: 
+One of those leaders was at Miniclip and it was him that helped me grow in this new position. First because he truly inspired me as a leader, making me follow him; and lastly, something that I used as my "clutch", it was something that he would answer whenever I questioned if I was really fit for the position:
 
 > If you were promoted to be a leader its because I trust in you and that you will do a great job at it. It wasn't mere chance.
 
@@ -42,7 +42,7 @@ One of those leaders was at Miniclip and it was him that helped me grow in this 
 
 ## What do I consider to be leadership?
 
-I'm going to start with something that might be polarizing - leadership/management is not about being a psychologist; being a profiller; guess other's inner motivations; etc
+I'm going to start with something that might be polarizing - leadership/management is not about being a psychologist; being a profiler; guess other's inner motivations; etc
 
 ### Management vs Leadership
 
@@ -53,7 +53,7 @@ Although I fear this is not the case when working in a business, where both term
 I like to structure both definitions in such a way that I could explain it to one of my kids, almost in a ELI5 manner - so that I could use them as a compass:
 
 - Manager - Approves vacations; time/project allocation of individuals; etc
-- Leader - Grows/Empowers individuals to be better professionals; 
+- Leader - Grows/Empowers individuals to be better professionals;
 - IC - Individual contributor, the individuals that report to you;
 - Line Manager - Your own leader/manager;
 - Team - Everyone that works directly with you and, potentially, with your IC;
@@ -114,7 +114,7 @@ To reduce the area of uncertainty about your role, as well as the number of ways
 
     - Why have you been promoted?
     - In your manager's perspective:
-      - What are your strenghts?
+      - What are your strengths?
       - What are your weaknesses?
     - ...
   </details>
@@ -124,7 +124,7 @@ Finally, it is important that you do a similar exercise with each individual of 
 - What are their expectations towards you?
 - What are their current personal goals?
 - What do they believe you need to know about them?
-- What is going on well? 
+- What is going on well?
 - What needs to be changed?
 - ...
 
@@ -136,7 +136,7 @@ Finally, it is important that you do a similar exercise with each individual of 
 
 Reality may be more than what is being perceived by an individual, but it is easy to fall into that trap and assume that, indeed, what you perceive is reality \[[Perception is not reality @ Psychology Today](https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality)\].
 
-I find this to be really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it! 
+I find this to be really scary, whatever someone else perceives will be perceived as being reality or shaping his own notion of it!
 
 Having this in consideration will help you better understand when others talk with you; identifying potential assumptions; questioning for their context, to understand their perspective; etc.
 
@@ -144,16 +144,16 @@ Having this in consideration will help you better understand when others talk wi
 
 - Constantly trying to understand how my actions, or my teams', would be perceived by others;
 - If someone reports me a situation I always _double click_ to get to the facts;
-- I never assume that someone might be lying, most times its their incomplete percepetion of the situation that shapes what they believe are facts.
+- I never assume that someone might be lying, most times its their incomplete perception of the situation that shapes what they believe are facts.
 
 #### Example
 
     You agree with your _line manager_ to take some time-off today and that you will make it later tonight.
-    
+   
     Your _individual contributor_ sees you working at 00h15, e.g. a commit timestamp.
     - Will he know that you agreed with your lead?
     - Will he think that you did overtime?
-    - Will that positevely re-inforce that its ok to work after-hours?
+    - Will that positively re-enforce that its ok to work after-hours?
     - And your peers? Will they think that you are trying to over-achieve?
     - How will that shape their relationship with you or with the company?
 
@@ -169,10 +169,10 @@ Getting a deeper insight will allow you to more easily extract the relevant data
 
 #### How it shaped my leadership
 
-The more I had one-on-one's with my IC's the better I knew them, which helped me understand what "keywords" they used that would have a whole thread of conversation that would benefit both. 
-So, sometimes, I would uncousciously picked them up and went deeper with meaningful conversations.
+The more I had one-on-one's with my IC's the better I knew them, which helped me understand what "keywords" they used that would have a whole thread of conversation that would benefit both.
+So, sometimes, I would unconsciously picked them up and went deeper with meaningful conversations.
 
-When I learned about double clicking was when it got from uncouscious into a conscious decision! Helped me pick up way more relevant data from my conversations.
+When I learned about double clicking was when it got from unconscious into a conscious decision! Helped me pick up way more relevant data from my conversations.
 
 This shaped not only my leadership but the way I talk with any other person.
 
@@ -201,7 +201,7 @@ When it comes to your reply there are multiple approaches here, but they all foc
 - Incorporating parts of what they said in your response;
 - Resuming what others said, before you continue with your response;
 - Double-clicking;
-- Silent noding or vocalized confirmation: "I see"; "hmm"; etc.
+- Silent nodding or vocalized confirmation: "I see"; "hmm"; etc.
 - etc
 
 Find more with \[[Active listening @ Wikipedia](https://en.wikipedia.org/wiki/Active_listening)\].
@@ -212,8 +212,8 @@ I'm still terrible at listening, as I often get lost in my thoughts, e.g. thinki
 
 This tool helped me by understand that listening is much more than just hearing others talk.
 
-- When having One-on-one's with my IC's I would get distracted, but if I had that momemt of clarity that I was getting distracted, I would go immediatly into active listening and would employ double-click (most times I would even acknowledge to them that I got distracted);
-- I use silent confirmation ("hmm hmm"), but its so automatic that I'm really not that engaged! After learning about this I tried to make them an automatic trigger to change my own posture while in a converstation: e.g. "Here I am hmm-hmm'ing again";
+- When having One-on-one's with my IC's I would get distracted, but if I had that moment of clarity that I was getting distracted, I would go immediately into active listening and would employ double-click (most times I would even acknowledge to them that I got distracted);
+- I use silent confirmation ("hmm hmm"), but its so automatic that I'm really not that engaged! After learning about this I tried to make them an automatic trigger to change my own posture while in a conversation: e.g. "Here I am hmm-hmm'ing again";
 - I really liked the double-click analogy as, one of my responsibilities as a leader was to surface potential problems and improvements to better enable my team, so this clearly "clicked" into that.
 
 ### 4. Open/Closed Biased/Unbiased questions \\STUB
@@ -224,7 +224,7 @@ There are several distinct ways that you can ask a question, the way you do them
 - the shape of the conversation from that point onwards;
 - the relationship with the person.
 
-This tools is about being mindful about how a question can drive a conversation. 
+This tools is about being mindful about how a question can drive a conversation.
 
 - Open vs Closed - Evaluates if a question is prone to a open answer or a short\closed answer.
 - Biased vs Unbiased - Evaluates if you are adding your opinion as means to lead the answer towards your opinion.
