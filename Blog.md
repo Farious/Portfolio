@@ -28,3 +28,18 @@ Everything that's written in this blog is highly personal and portraits my own v
 - [2021/07/10 - You've been promoted into a leadership position!](/posts/2021_07_10_youve_been_promoted_to_leadership)
 - [2021/07/10 - Tool #1 - Is perception reality?](/posts/2021_07_10_1_perception_is_reality)
 - [2021/07/10 - Tool #2 - Double clicking](/posts/2021_07_10_2_double_clicking)
+
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
+</div>
+<div class="row listrecent">
+
+{% for post in page.posts %}
+
+    {% include postbox.html %}
+
+{% endfor %}
+
+</div>
+</section>
