@@ -10,11 +10,16 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    {% if site.logo %}
+    <link rel="shortcut icon" type="image/png" href="{{ site.favicon }}">
+    {% endif %}
+
   </head>
   <body>
     <div class="wrapper">
       <header>
-          
+
         <h1><a href="{{ "/blog" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -22,10 +27,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.logo %}
-        <link rel="shortcut icon" type="image/png" href="{{ site.favicon }}">
-        {% endif %}
 
       </header>
       <section>

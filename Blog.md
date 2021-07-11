@@ -5,7 +5,7 @@ author: Fábio Reis
 permalink: /blog/
 ---
 
-# Welcome
+# Welcome!
 
 I'm Fábio and I've been leading teams for the past 5 years in the game development area - specifically - software developers.
 
