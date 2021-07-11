@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog"
+title: "Intro"
 author: Fábio Reis
 permalink: /blog/
 ---

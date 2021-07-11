@@ -289,6 +289,8 @@ All about \[[Juggling Koan @ Manager Tools](https://www.manager-tools.com/2007/0
 
 ### How are you contributting now - afterall you no longer have time now \\STUB
 
+### You are expected to deliver as an IC as well as a leader! What now? \\STUB
+
 ## Reference material
 
 1. https://en.wikipedia.org/wiki/Management
