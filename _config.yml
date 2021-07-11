@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Leadership Blog
 description: I want to use this blog as my go-to place to document tools, thoughts, etc that I found useful for leading a team - specially in a game development context.
 logo: img/logos/curious_cat_relax.JPG
+favicon: 'favicon.png'
 show_downloads: false
-baseurl: /blog
+
 author: Fábio Reis
