@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1 Understanding that perception is reality"
+title: "Tool #1 - Perception is reality"
 date: 2021-07-10 00:00:00 -0000
 author: Fábio Reis
 categories: LEADERSHIP TOOLS

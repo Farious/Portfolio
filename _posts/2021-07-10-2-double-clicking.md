@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2 Double click"
+title: "Tool #2 - Double click"
 date: 2021-07-10 05:00:00 -0000
 author: Fábio Reis
 categories: LEADERSHIP TOOLS

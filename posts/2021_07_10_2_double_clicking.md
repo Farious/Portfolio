@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2 Double click"
+title: "Tool #2 - Double click"
 date: 2021-07-10 05:00:00 -0000
 author: Fábio Reis
 categories: LEADERSHIP TOOLS
@@ -36,8 +36,6 @@ This shaped not only my leadership but the way I talk with any other person.
 >
 > Potential questions:
 >
-> B.1: What type of memory problems were you having?
->
-> B.2: Was there a better approach that you could've taken?
->
-> B.3: What makes you say you are not proficient?
+> - B.1: What type of memory problems were you having?
+> - B.2: Was there a better approach that you could've taken?
+> - B.3: What makes you say you are not proficient?
