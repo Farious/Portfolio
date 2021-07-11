@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "2 Understanding that perception is reality"
+title: "2 Double click"
 date: 2021-07-10 05:00:00 -0000
+author: Fábio Reis
 categories: LEADERSHIP TOOLS
 ---
 
-# Tools to have in your belt
+<!-- # Tools to have in your belt
 
 This will be a series of posts covering tools that I would like to have known since my first day as a leader.
 
-# 2. Double clicking
+# 2. Double clicking -->
 
 When browsing through your file system on Windows its normal to *double click* folders to understand what they may contain.
 This section is about having a similar approach when talking with others.

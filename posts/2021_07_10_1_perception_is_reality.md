@@ -2,14 +2,11 @@
 layout: post
 title: "1 Understanding that perception is reality"
 date: 2021-07-10 00:00:00 -0000
+author: Fábio Reis
 categories: LEADERSHIP TOOLS
 ---
 
-# Tools to have in your belt
-
-This will be a series of posts covering tools that I would like to have known since my first day as a leader.
-
-# 1. Understanding that perception is reality
+<!-- # 1. Understanding that perception is reality -->
 
 Reality may be more than what is being perceived by an individual, but it is easy to fall into that trap and assume that, indeed, what you perceive is reality \[[Perception is not reality @ Psychology Today](https://www.psychologytoday.com/us/blog/the-power-prime/201908/perception-is-not-reality)\].
 

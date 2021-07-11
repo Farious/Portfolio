@@ -2,10 +2,11 @@
 layout: post
 title: "You've been promoted into a leadership position"
 date: 2021-07-10 00:00:00 -0000
+author: Fábio Reis
 categories: LEADERSHIP TOOLS
 ---
 
-# You've been promoted into a leadership position!
+<!-- # You've been promoted into a leadership position! -->
 
 [Don't panic](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Don't_Panic)
 
