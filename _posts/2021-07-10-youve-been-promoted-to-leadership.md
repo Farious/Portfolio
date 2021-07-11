@@ -53,7 +53,7 @@ It is important to fully understand your role and the expectations towards your 
 
 To reduce the area of uncertainty about your role, as well as the number of ways something can be perceived by someone (you included!), I would start with questions - mainly directed at either your line manager and/or your HRBP.
 
-- Question your responsibilities:
+- Question about your responsibilities:
 
     - What will drive your performance evaluation?
     - What are your line manager expectations?
@@ -61,7 +61,7 @@ To reduce the area of uncertainty about your role, as well as the number of ways
     - What is your job specification?
     - ...
 
-- Question your role:
+- Question about your role:
 
     - Are you expected to be a fully dedicated leader/manager?
     - Are you expected to participate as a developer?
@@ -70,7 +70,7 @@ To reduce the area of uncertainty about your role, as well as the number of ways
     - Who are your peers?
     - ...
 
-- Question your goals:
+- Question about your goals:
 
     - What should you achieve this year? (quarterly would be even better)
     - What are your team's goals for the year (quarterly)?
