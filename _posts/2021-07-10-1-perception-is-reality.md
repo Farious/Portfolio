@@ -22,11 +22,11 @@ Having this in consideration will help you better understand when others talk wi
 
 ## Example
 
-    You agree with your _line manager_ to take some time-off today and that you will make it later tonight.
-   
-    Your _individual contributor_ sees you working at 00h15, e.g. a commit timestamp.
-    - Will he know that you agreed with your lead?
-    - Will he think that you did overtime?
-    - Will that positively re-enforce that its ok to work after-hours?
-    - And your peers? Will they think that you are trying to over-achieve?
-    - How will that shape their relationship with you or with the company?
+>You agree with your _line manager_ to take some time-off today and that you will make it later tonight.
+>
+>Your _individual contributor_ sees you working at 00h15, e.g. a commit timestamp.
+>- Will he know that you agreed with your lead?
+>- Will he think that you did overtime?
+>- Will that positively re-enforce that its ok to work after-hours?
+>- And your peers? Will they think that you are trying to over-achieve?
+>- How will that shape their relationship with you or with the company?
