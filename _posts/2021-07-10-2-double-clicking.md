@@ -33,7 +33,11 @@ This shaped not only my leadership but the way I talk with any other person.
 ## Example
 
 > A: Even though I'm not proficient I moved to closer-to-the-metal languages as it allowed for better memory tracking issues.
+>
 > Potential questions:
+>
 > B.1: What type of memory problems were you having?
+>
 > B.2: Was there a better approach that you could've taken?
+>
 > B.3: What makes you say you are not proficient?
