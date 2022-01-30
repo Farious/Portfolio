@@ -143,7 +143,7 @@ Having this in consideration will help you better understand when others talk wi
 #### How it shaped my leadership
 
 - Constantly trying to understand how my actions, or my teams', would be perceived by others;
-- If someone reports me a situation I always _double click_ to get to the facts;
+- 
 - I never assume that someone might be lying, most times its their incomplete perception of the situation that shapes what they believe are facts.
 
 #### Example
@@ -287,11 +287,19 @@ All about \[[Juggling Koan @ Manager Tools](https://www.manager-tools.com/2007/0
 
 ### Being you - a human \\STUB
 
-### How are you contributting now - afterall you no longer have time now \\STUB
+### How are you contributing now - after all you no longer have time now \\STUB
 
-### You are expected to deliver as an IC as well as a leader! What now? \\STUB
+### You are expected to deliver as an IC as well as a leader! What now? \\STUB
 
-## Reference material
+
+# Feedback
+- First steps: Meet the team; Understand the project \\ STUB - Add to first post
+- If someone reports me a situation I always _double click_ to get to the facts;
+  - More examples of how work the tool
+  - Verbal and non-verbal communications' effect on the actual message being passed
+
+
+# Reference material
 
 1. https://en.wikipedia.org/wiki/Management
 1. https://en.wikipedia.org/wiki/Leadership
