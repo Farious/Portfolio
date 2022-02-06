@@ -1,7 +1,7 @@
 header:
   - titles:
       en      : &EN       CV
-    url: /cv.html
+    url: /cv
   - titles:
       en      : &EN       Leadership
     url: /leadership
@@ -53,4 +53,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html
+    url: /about
