@@ -2,9 +2,9 @@ header:
   - titles:
       en      : &EN       CV
     url: /cv
-  - titles:
-      en      : &EN       Leadership
-    url: /leadership
+  # - titles:
+  #     en      : &EN       Leadership
+  #   url: /leadership
   # - titles:
   #     # @start locale config
   #     en      : &EN       Archive
