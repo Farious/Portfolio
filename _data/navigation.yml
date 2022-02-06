@@ -1,10 +1,7 @@
 header:
   - titles:
-      en      : &EN       Blog
-    url: /blog
-  - titles:
       en      : &EN       CV
-    url: /
+    url: /cv.html
   - titles:
       en      : &EN       Leadership
     url: /leadership
