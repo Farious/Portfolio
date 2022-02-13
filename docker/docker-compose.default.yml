@@ -1,0 +1,27 @@
+version: "3.5"
+
+services:
+  jekyll-text-Portfolio_Local_dev:
+    image: docker_jekyll-text-theme_dev
+    environment:
+      - JEKYLL_ENV
+    ports:
+      - 4000:4000
+    container_name: Portfolio_Local_dev
+    volumes:
+      - ..:/usr/src/app
+    stdin_open: true
+    tty: true
+    command: bundle exec jekyll serve --drafts -H 0.0.0.0 -t
+  jekyll-text-Portfolio_Local_prod:
+    image: docker_jekyll-text-theme_dev
+    environment:
+      - JEKYLL_ENV
+    ports:
+      - 4001:4001
+    container_name: Portfolio_Local_prod
+    volumes:
+      - ..:/usr/src/app
+    stdin_open: true
+    tty: true
+    command: bundle exec jekyll serve -H 0.0.0.0 -t
