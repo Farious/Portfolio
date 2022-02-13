@@ -1,19 +1,16 @@
 ---
-layout: post
+layout: article
 title: "Tool #2 - Double click"
-date: 2021-07-10 05:00:00 -0000
-author: Fábio Reis
-categories: LEADERSHIP TOOLS
+tags: LEADERSHIP TOOLS
+category: leadership
+cover: /assets/images/leadership/double_click.jpeg
+permalink: leadership/double_clicking
 ---
-
-<!-- # Tools to have in your belt
-
-This will be a series of posts covering tools that I would like to have known since my first day as a leader.
-
-# 2. Double clicking -->
 
 When browsing through your file system on Windows its normal to *double click* folders to understand what they may contain.
 This section is about having a similar approach when talking with others.
+
+<!--more-->
 
 If someone says something to you in a conversation its because it may matter either to the person or to the conversation (or both).
 

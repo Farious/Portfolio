@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "You've been promoted to a leadership position"
-# tags: LEADERSHIP TOOLS
+tags: LEADERSHIP TOOLS
+category: leadership
 cover: /assets/images/leadership/dont_panic.jpeg
 ---
 

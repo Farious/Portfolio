@@ -1,7 +1,8 @@
 ---
 layout: article
 title: "Tool #1 - Perception is reality"
-# tags: LEADERSHIP TOOLS
+tags: LEADERSHIP TOOLS
+category: leadership
 cover: /assets/images/leadership/perception.jpeg
 ---
 
