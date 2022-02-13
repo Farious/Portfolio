@@ -24,11 +24,37 @@ titles:
   fr-LU   : *FR
   # @end locale config
 ---
+{%- assign _page_archive_data_source = page.data_source | default: "site.posts" -%}
+
+{%- if _page_archive_data_source -%}
+{%- assign _keys = _page_archive_data_source | split: '.' -%}
+{%- endif -%}
+
+{%- assign _articles = nil -%}
+{%- for _key in _keys -%}
+  {%- if forloop.first -%}
+    {%- case _key -%}
+      {%- when 'site' -%}
+        {%- assign _articles = site -%}
+      {%- when 'page' -%}
+        {%- assign _articles = page -%}
+      {%- when 'layout' -%}
+        {%- assign _articles = layout -%}
+      {%- when 'paginator' -%}
+        {%- assign _articles = paginator -%}
+      {%- else -%}
+        {%- assign _articles = site[_key] -%}
+      {%- else -%}
+    {%- endcase -%}
+  {%- else -%}
+    {%- assign _articles = _articles[_key] -%}
+  {%- endif -%}
+{%- endfor -%}
 
 <div class="layout--archive js-all">
-  {%- include tags.html -%}
+  {%- include tags.html articles=_articles -%}
   <div class="js-result layout--archive__result d-none">
-    {%- include article-list.html articles=site.posts type='brief' show_info=true reverse=true group_by='year' -%}
+    {%- include article-list.html articles=_articles type='brief' show_info=true reverse=true group_by='year' -%}
   </div>
 </div>
 
