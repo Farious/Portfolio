@@ -43,6 +43,15 @@ class PortfolioProject {
 
 var mainProjects = [
     new PortfolioProject(
+        "Dune: Awakening",
+        "https://store.steampowered.com/app/1172710/Dune_Awakening/",
+        "img/projects/dune_awakening_normal.jpg",
+        "img/projects/dune_awakening_hover.jpg",
+        "Working as a senior developer for Funcom's engine team, responsible for the server technology and editor/game stability.\
+        Leading the cpu/network performance effort: capturing and analazying metrics; helping with top hitters.\
+        Working as a lead for Nukklear, helping with hiring/management/etc.",
+        "Nukklear@Funcom - Lead developer"),
+    new PortfolioProject(
         "Centauri Rising",
         "https://centauri-rising.com/",
         "img/projects/centauri_rising_random.png",

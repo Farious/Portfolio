@@ -203,16 +203,16 @@ body div section
 #portfolio section
 {
     min-height: 25em;
-    height: 25vh;
-    max-height: 55em;
+    height: 100vh;
+    max-height: 100vh;
 }
 a .pBorder	
 {	
 	position:					relative;
 	float:						left;
 	margin:						0.5%;
-	width:						24%;
-	height:						96%;
+	width:						32%;
+	height:						48%;
 	/* border-radius:				1.875em;
     background:                 #85A7FF;	 */
 	z-index:					0;	
