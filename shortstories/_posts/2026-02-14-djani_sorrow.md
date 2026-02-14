@@ -12,7 +12,7 @@ Finding forgivness through retelling.
 
 <!--more-->
 
-__Narration Script (Djani, from the afterlife)__  
+# Narration Script (Djani, from the afterlife)
 [__Voice__: deep, trembling, intimate. Slow pace, like remembering and confessing.]  
 
 _(Soft, almost a whisper.)_
