@@ -219,12 +219,6 @@ defaults:
       show_tags: false
       show_edit_on_github: false
 
-collections:
-  leadership:
-    output: true
-  shortstories:
-    output: true
-
 ## => Plugins
 ##############################
 plugins:
