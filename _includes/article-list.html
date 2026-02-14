@@ -4,8 +4,8 @@
 
 {%- include snippets/get-locale-string.html key='READMORE' -%}
 {%- assign _locale_readmore = __return -%}
-
-{%- if page.filter_category -%}
+ 
+{%- if page.articles.filter_category -%}
   {%- assign _sorted_list = include.articles | where: "category", page.articles.filter_category -%}
 {%- else -%}
   {%- assign _sorted_list = include.articles -%}
