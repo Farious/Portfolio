@@ -222,6 +222,8 @@ defaults:
 collections:
   leadership:
     output: true
+  shortstories:
+    output: true
 
 ## => Plugins
 ##############################
