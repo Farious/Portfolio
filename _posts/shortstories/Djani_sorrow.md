@@ -2,8 +2,7 @@
 layout: article
 title: "Djani, from the afterlife"
 tags: SHORT STORY SORROW LONGING
-category: leadership
-# cover: /assets/images/leadership/dont_panic.jpeg
+category: shortstories
 ---
 
 Narrated by Djani, a mother of one.

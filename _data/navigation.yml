@@ -6,6 +6,9 @@ header:
       en      : &EN       Leadership
     url: /leadership
   - titles:
+      en      : &EN       Short Stories
+    url: /shortstories
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
